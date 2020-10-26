@@ -1,0 +1,638 @@
+#whole{
+    margin-left: 50px;
+    margin-right: 40px;
+}
+p.one{
+    float: right;
+    width: 50%;
+    margin-top: -40px;
+    text-decoration: underline;
+    font-size: 10px;
+    
+}
+p.first{ 
+    font-size: 50px;
+}
+#b1{
+    max-width: 40%;
+    margin-top: -20px;
+}
+p.two{
+    line-height: 0px;   
+}
+p.second{
+    font-size: 8px;
+    margin-top: -46px;
+}
+p.third{
+    font-size: 10px;
+    margin-right: 12px;
+    margin-top: 0px;
+    border-top: 0.5px solid gray;
+    border-left: 0.5px solid gray;
+    border-right: 0.5px solid gray;
+    
+    padding: 0px;
+    margin-top: 15px;
+    
+}
+#three{
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+
+}
+p.fourth{
+    margin-top: -18px;
+}
+.a{
+    height: 15px;
+    margin: px;
+    color: white;
+    background-color: blue;
+    padding: 0px;
+    width: 59px;
+     font-size: 7px;
+ }
+.b{
+    margin: -11px;
+    color: white;
+    background-color: blue;
+    padding: 0px;
+    height: 15px;
+    width: 45px;
+     font-size: 7px;
+ }
+ .c{
+    color: white;
+    background-color: blue;
+    margin: 0px;
+    padding: 0px;
+    height: 15px;
+    width: 61px;
+     font-size: 7px;
+ }
+ .d{
+    color: white;
+    background-color: blue;
+    margin:-10px;
+    padding: 0px;
+    height: 15px;
+    width: 74px;
+     font-size: 7px;
+ }
+ .e{
+    color: white;
+    background-color: blue;
+    margin: 0px;
+    padding: 0px;
+    height: 15px;
+    width: 65px;
+     font-size: 7px;
+ }
+ .f{ color: white;
+    background-color: blue;
+    margin: -10px;
+    padding: 0px;
+    height: 15px;
+    width: 39px;
+     font-size: 7px;
+ }
+ .g{
+    color: white;
+    background-color: blue;
+    margin: 3px;
+    padding: 0px;  
+    height: 15px;
+    width: 48px;
+     font-size: 7px;
+ }.h{ color: white;
+    background-color: blue;
+    margin: -12px;
+    padding: 0px;
+    height: 15px;
+    width: 65px;
+     font-size: 7px;
+ }.i{
+    color: white;
+    background-color: blue;
+    margin: 2px;
+    padding: 0px;
+    height: 15px;
+    width: 54px;
+     font-size: 7px;
+ }
+ .j{
+    color: white;
+    background-color: blue;
+    margin: -10px;
+    padding: 0px;
+    height: 15px;
+    width: 97px;
+     font-size: 7px;
+ }
+ .a1{
+     background-color: white;
+    height: 15px;
+    /* margin: -10px; */
+    padding: 0px;
+    border: 0px;
+    margin-left: 2px;
+    margin-right: -5px ;
+    width: 30px;
+     font-size: 8px;
+     font-weight: bold;
+ }
+.a2{
+    /* margin: -13px; */
+    background-color: white;
+     border: 0px;
+    padding: 0px;
+    height: 15px;
+    width: 28px;
+     font-size: 8px;
+     font-weight: bold;
+ }
+ .a3{
+    background-color:blue;
+    color: white; 
+    
+    border: 0px;
+    margin-right: 0px;
+    margin-left: -7px;
+    padding: 0px;
+    height: 15px;
+    margin-left: 20;
+    width: 34px;
+     font-size: 8px;
+     font-weight: bold;
+ }
+ .a4{
+    border: 0px;
+    background-color: white;
+    /* margin:-10px; */
+    margin-left: -8px;
+    margin-right: -10px;
+    padding: 0px;
+    height: 15px;
+    font-weight: bold;
+    width: 35px;
+     font-size: 8px;
+ }
+ .a5{
+     border: 0px;
+    background-color: white;
+    /* margin: 0px; */
+    padding: 0px;
+    margin-left: 2px;
+    font-weight: bold;
+    margin-right: 2px;
+    height: 15px;
+    width: 57px;
+     font-size: 8px;
+ }
+ .a6{ 
+    background-color: white;
+    border: 0px;
+    font-weight: bold;
+    margin: -7px;
+    padding: 0px;
+    height: 15px;
+    width: 47px;
+     font-size: 8px;
+ }
+ .a7{
+    border: 0px;
+    background-color: white;
+    margin: 3px;
+    font-weight: bold;
+    padding: 0px;
+    margin-left: 0px;  
+    height: 15px;
+    width: 42px;
+     font-size: 8px;
+ }.a8{
+    background-color:white;
+    border: 0px;
+    font-weight: bold;
+    margin: -12px;
+    padding: 0px;
+    height: 15px;
+    width: 43px;
+     font-size: 8px;
+ }.a9{
+    background-color:white;
+    margin: 2px;
+    border: 0px;
+    font-weight: bold;
+    padding: 0px;
+    height: 15px;
+    width: 45px;
+     font-size: 8px;
+ }
+ .a10{
+    height: 15px;
+    border: 0px;
+    /* margin: px; */
+     font-weight: bold;
+    background-color:white;
+    padding: 0px;
+    margin-left: -10px;
+    width: 46px;
+     font-size: 8px;
+ }
+.a11{
+    margin: -11px;
+    font-weight: bold;
+    border: 0px;
+    background-color: white;
+    padding: 0px;
+    height: 15px;
+    width: 43px;
+     font-size: 8px;
+ }
+ .a12{
+    background-color:white;
+    border: 0px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    height: 15px;
+    width: 42px;
+     font-size: 8px;
+ }
+ .a13{
+    background-color: white;
+    margin:-10px;
+    font-weight: bold;
+    border: 0px;
+    padding: 0px;
+    height: 15px;
+    width: 65px;
+     font-size: 8px;
+ }
+ .a14{
+    margin: 0px;
+    font-weight: bold;
+    border: 0px;
+    background-color: white;
+    padding: 0px;
+    height: 15px;
+    width: 50px;
+     font-size: 8px;
+ }
+#b2{
+    width: 560px;
+    height: 160px;
+}
+ .sixth{
+    color: blue;
+    font-size: 22px;
+ }
+ #b4{
+     max-width: 550px;
+ }
+ .seventh{
+     margin-top: -12px;
+     font-size: 9px;
+ }
+ p.left{
+    float: left;
+    width: 32%;
+    margin-top: 0px;
+    overflow: hidden;
+}
+ #c1{
+     width: 30%;
+     float: left;
+     color: blue;
+     margin-top: 5px;
+     text-align: justify;
+     
+ }
+ #c2{
+     margin-top: 120px;
+     margin-left: -170px;
+     width: 30%;
+     height: 100%;
+ }  
+ #c9{
+     width: 30%;
+     text-align: justify;
+    overflow: hidden;
+    margin-top: -10px;
+    font-size: 8px;
+}
+#c3{
+    width: 30%;
+}
+#c4{
+    width: 30%;
+    text-align: justify;
+    color: blue;
+    font-size: 12px;
+}
+#c5{
+    width: 15%;
+    height: 70px;
+}
+#c6{
+    width: 14%;
+    text-align: justify;
+    font-size: 8px;
+    margin-top: -92px;
+    margin-left: 90px;
+
+}
+#c7{
+    width: 20%;
+}
+p.center{
+    overflow: hidden;
+    width: 30%;
+}
+#d22{
+    font-size: 10px;
+    margin-left: 190px;
+    margin-top: -820px;
+}
+#d1{
+    width: 32%;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+#d0{
+    width: 32%;
+    margin-top: -20px;
+    margin-left: 190px;
+}
+#d2{
+    width: 32%;
+    margin-left: 190px;
+    margin-top: -10px;
+    font-size: 10px;
+    color: blue;
+}
+#d21{
+    width: 16%;
+    margin-left: 190px;
+    margin-top: -10px;
+}
+#d4{
+    width: 16%;
+    font-size: 8px;
+    margin-top: -90px;
+    margin-left: 290px;
+    text-align: justify;
+}
+#d5{
+    width: 25%;
+    margin-left: 190px;
+    margin-top: -10px;
+}
+
+#d6{
+    width: 32%;
+    margin-left: 190px;
+    margin-top: -10px;
+    font-size: 10px;
+    color: blue;
+}
+#d7{
+    width: 16%;
+    margin-left: 190px;
+    margin-top: -10px;
+}
+#d8{
+    width: 16%;
+    font-size: 8px;
+    margin-top: -90px;
+    margin-left: 290px;
+    text-align: justify;
+}
+#d9{
+    width: 25%;
+    margin-left: 190px;
+    margin-top: -10px;
+}
+#d10{
+    width: 32%;
+    margin-left: 190px;
+    margin-top: -10px;
+    font-size: 10px;
+    color: blue;
+}
+#d11{
+    width: 16%;
+    margin-left: 190px;
+    margin-top: -10px;
+}
+#d12{
+    width: 16%;
+    font-size: 8px;
+    margin-top: -90px;
+    margin-left: 290px;
+    text-align: justify;
+}
+#d13{
+    width: 25%;
+    margin-left: 190px;
+    margin-top: -20px;
+}
+#right{
+    float: right;
+}
+#e1{
+    
+    
+    border: solid blue;
+    width: 30%;
+    font-size: 8px;
+    
+
+    margin-left: 388px;
+    margin-top: -800px;
+    padding-right: 0px;
+}
+#e2{
+    font-size: 7px;
+    margin-left: -2px;
+    background-color: blue;
+    color: white;
+}
+#tf{
+    width: 30%;
+}
+#e3{
+    width: 5%;
+    font-size: 6px;
+}
+#e4{
+    width: 5%;
+
+}
+#e5{
+    width: 31%;
+    margin-top: -10px;
+    margin-left: 388px;
+}
+#e6{
+    width: 28%;
+    font-size: 10px;
+    border: solid black;
+    margin-left: 388px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: palevioletred;
+    color: white;
+    border-color: palevioletred;
+}
+#e7{
+    margin-left: 388px;
+    margin-top: -10px;
+    width: 30%;
+
+}
+#e8{
+    margin-left: 388px;
+    margin-top: -18px;
+    width: 30%;
+    height: 82px;
+
+}
+#e9{
+    margin-left: 388px;
+    margin-top: -18px;
+    width: 30%;
+    height: 82px;
+
+}
+#e10{
+    margin-left: 388px;
+    margin-top: -18px;
+    width: 30%;
+    height: 82px;
+
+}
+#e11{
+    margin-left: 388px;
+    margin-top: -18px;
+    width: 30%;
+    height: 82px;
+
+}
+#e12{
+    margin-left: 388px;
+    margin-top: -18px;
+    width: 30%;
+    height: 82px;
+
+}
+#e13{
+    margin-left: 388px;
+    margin-top: -18px;
+    width: 30%;
+    height: 82px;
+
+}
+#c8{
+    margin-top: 20px;
+    border: 0px;
+}
+#f1{
+    margin-top: -20px;
+}
+#f2{
+    float: left;
+    margin-top: -10px;
+    padding-right: 265px;
+    border: 0px;
+    color: white;
+    background-image: linear-gradient(0,blue,lightblue);
+}
+#f3{
+    float: right;
+    margin-right: 194px;
+    margin-top: -10px;
+    color: blue;
+    font-size: 22px;
+}
+#f4{
+    max-width: 65%;
+    margin-top: -10px;
+}
+#f5{
+    float: left;
+    font-size: 8px;
+    width: 65%;
+    margin-top: -10px;
+}
+#f6{
+    margin-top: 53px;
+    width: 10%;
+    margin-left: -350px;
+}
+
+#f7{
+    
+    width: 10%;
+    margin-left: 120px;
+
+}
+
+#f8{
+    width: 8%;
+    margin-left: 5px;
+}
+#bottom{
+    float: left;
+    margin-top: -520px;
+}
+.g1{
+    float: left;
+}
+#g3{
+    border: 1px solid blue;
+    font-size: 10px;
+    padding-right: 0px;
+    color: white;
+    background-color: blue;
+    margin-right: 500px;
+    border-radius: 5px
+}
+#g2{
+    margin-top: -10px;
+    font-size: 10px;
+    padding-right: 20px;
+    padding-left: 10px;
+    border: 1px solid black; 
+    
+}
+#g4{
+    font-size: 6px;
+    color: blue;
+    margin-left: 100px;
+}
+#g5{
+    font-size: 6px;
+    color: blue;
+    margin-left: 210px;
+}
+#g6{
+    font-size: 6px;
+    color: #0000ff;
+    margin-left: 190px;
+}
+#g7{
+    font-size: 6px;
+    margin-left: 215px;
+}
+#g8{
+    font-size: 6px;
+    margin-left: 185px;
+}
+#g9{
+    font-size: 6px;
+    color: #0000ff;
+    margin-left: 110px;
+}
